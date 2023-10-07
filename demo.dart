@@ -1,3 +1,3 @@
 void main(){
-    print("GGE");
+    print("GGE");;
 }

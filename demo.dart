@@ -1,1 +1,3 @@
-GGE 
+void main(){
+    print("GGE");
+}

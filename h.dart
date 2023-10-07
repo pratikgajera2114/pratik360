@@ -1,1 +1,3 @@
-H
+void main(){
+  print("H");
+}
